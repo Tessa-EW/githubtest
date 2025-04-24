@@ -9,8 +9,6 @@ function encode(X::String)
     end
 end
 
-
-
 alphinv = Dict(
     "0"=>" ",
     "2"=>"abc",
